@@ -1,4 +1,4 @@
-<h1>Hi I'm Nir Yossef! 👋</h1>
+<h1>Hi I'm Nir! 👋</h1>
 
 ---
 
