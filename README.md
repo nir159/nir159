@@ -1,11 +1,7 @@
-<h1>Nir Yossef in a Nut Shell!</h1>
-
-
-<img src="https://media2.giphy.com/media/3o7ZeT4v0hu8U3OlJC/giphy.gif?cid=ecf05e47qwn7rbcwygzxe2wii8ci0wxjt8w02kn4aa46vq7o&rid=giphy.gif&ct=g" >
-
+<h1>Hi I'm Nir Yossef! 👋</h1>
 
 ---
 
-My name is Nir Yossef, I am currently serving in the IDF. I first learned to code while I was in school. I then began learning web and app development. Started with Gitlab and then migrated to Github.
+My name is Nir Yossef, I am currently serving in the IDF. I first learned to code while I was in school. I then began learning web and app development.
    
 ---
